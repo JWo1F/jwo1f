@@ -46,6 +46,7 @@ abbr[title] {
   align-items: center;
   position: relative;
   text-align: center;
+  cursor: default;
 }
 
 .app__blinker_blink {
